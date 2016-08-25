@@ -1,0 +1,34 @@
+{
+  "cache_path": "/tmp/supercache_tantu_dev/",
+  "black_list": [
+    "data:",
+    "hm.baidu.com/hm.gif",
+    "cnzz.com/stat.htm",
+    "cnzz.com/app.gif",
+    "cache_manifest",
+    "__webpack_hmr",
+    "oneapm.com",
+    "img.zuzuche.com/user_icon/",
+    "/socket.io/",
+    "sobot.com"
+  ],
+  "page_urls_to_cache": [
+    "https://m-dev.zuzuche.com/group/chat/emoji.html",
+    "https://m-dev.zuzuche.com/group/chat/?_page=chat&channel_id=772370&_super_cache_run=1",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=2018",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=2694",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=1846",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=1021",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=5481",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=7698",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=9567",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=8808",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=8896",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=7247",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=3124",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=8957",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=5463",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=3968",
+    "https://m-dev.zuzuche.com/v2/?m=route/info&id=6389"
+  ]
+}

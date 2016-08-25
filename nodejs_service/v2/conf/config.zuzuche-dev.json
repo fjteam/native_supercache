@@ -1,0 +1,31 @@
+{
+  "cache_path": "/tmp/supercache_m_dev/",
+  "black_list": [
+    "data:",
+    "hm.baidu.com/hm.gif",
+    "cnzz.com/stat.htm",
+    "cnzz.com/app.gif",
+    "cache_manifest",
+    "__webpack_hmr",
+    "oneapm.com",
+    "img.zuzuche.com/user_icon/",
+    "/socket.io/",
+    "sobot.com"
+  ],
+  "page_urls_to_cache": [
+    "https://m-dev.zuzuche.com/",
+    "https://m-dev.zuzuche.com/w/select_city.php?select_type=1",
+    "https://m-dev.zuzuche.com/w/select_city.php",
+    "https://m-dev.zuzuche.com/w/book/list.php?id=38551346&",
+    "https://m-dev.zuzuche.com/group/chat/emoji.html",
+    "https://m-dev.zuzuche.com/w/contact.php",
+    "https://m-dev.zuzuche.com/w/tool/",
+    "https://m-dev.zuzuche.com/w/free.php",
+    "https://m-dev.zuzuche.com/w/jiazhao/",
+    "https://m-dev.zuzuche.com/w/insurance/",
+    "https://m-dev.zuzuche.com/w/simple.php",
+    "https://m-dev.zuzuche.com/group/chat/?_page=chat&channel_id=772370&_super_cache_run=1",
+    "https://m-dev.zuzuche.com/v2/index_app/",
+    "https://m-dev.zuzuche.com/v2/index_app/toolbox.html"
+  ]
+}

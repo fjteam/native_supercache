@@ -1,0 +1,36 @@
+{
+  "cache_path": "/tmp/supercache_m_520/",
+  "black_list": [
+    "data:",
+    "hm.baidu.com/hm.gif",
+    "cnzz.com/stat.htm",
+    "cnzz.com/app.gif",
+    "cache_manifest",
+    "__webpack_hmr",
+    "oneapm.com",
+    "img.zuzuche.com/user_icon/",
+    "/socket.io/",
+    "sobot.com"
+  ],
+  "page_urls_to_cache": [
+    "https://m.zuzuche.com/v2/",
+    "https://m.zuzuche.com/v2/index.php",
+    "https://m.zuzuche.com/v2/?m=trip",
+    "https://m.zuzuche.com/v2/?m=group",
+    "https://m.zuzuche.com/",
+    "https://m.zuzuche.com/w/",
+    "https://m.zuzuche.com/w/select_city.php?select_type=1",
+    "https://m.zuzuche.com/w/select_city.php",
+    "https://m.zuzuche.com/w/book/list.php?id=38551346&",
+    "https://m.zuzuche.com/w/tool/",
+    "https://m.zuzuche.com/w/contact.php",
+    "https://m.zuzuche.com/group/chat/emoji.html",
+    "https://m.zuzuche.com/w/free.php",
+    "https://m.zuzuche.com/w/jiazhao/",
+    "https://m.zuzuche.com/w/insurance/",
+    "https://m.zuzuche.com/w/simple.php",
+    "https://m.zuzuche.com/w/easy/",
+    "https://m.zuzuche.com/group/chat/?_page=chat&channel_id=772370&_super_cache_run=1",
+    "https://m.zuzuche.com/national_channel/national_welcome/"
+  ]
+}
